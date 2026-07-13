@@ -1,5 +1,9 @@
 # IEEE-CIS Fraud Detection System
 
+## Live Demo
+
+[Launch the Fraud Detection App](https://ieee-cis-fraud-detection-4ttojhqqkgwczuxuj6huew.streamlit.app)
+
 A machine learning project for detecting fraudulent online transactions using the IEEE-CIS Fraud Detection dataset.
 
 The project compares multiple classification models and implements an XGBoost-based fraud detection system with a Streamlit web application.
